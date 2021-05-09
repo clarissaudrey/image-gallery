@@ -1,0 +1,10 @@
+.empty-album-desc {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.add-images-selection {
+    display: flex;
+    flex-direction: row;
+}

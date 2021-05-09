@@ -17,10 +17,10 @@ Need to have a Cloudinary account (https://cloudinary.com). It is free to sign u
    API_SECRET=your_cloud_secret
    ```
 4. Replace the values with the values found on your Cloudinary account.
-5. On a terminal, start the client
-6. cd client
-7. npm i && npm start
-8. On a new terminal, start the server
-9. cd server
-10. npm i && npm run dev
-11. Wait until it gets deployed on the local server (localhost:3000)
+// On a terminal, start the client
+5. cd client
+6. npm i && npm start
+// On a new terminal, start the server
+7. cd server
+8. npm i && npm run dev
+9. Wait until it gets deployed on the local server (localhost:3000) and you are good to go!
